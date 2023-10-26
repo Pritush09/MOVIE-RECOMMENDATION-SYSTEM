@@ -5,7 +5,8 @@
 This project is a Movie Recommendation System that suggests movies to users based on their preferences and viewing history. It employs collaborative filtering, content-based filtering, or a hybrid approach to provide personalized movie recommendations to users, enhancing their overall movie-watching experience.
 
 ## Overview
-![Uploading Movie Recommendation.png]
+![Movie Recommendation](https://github.com/Pritush09/MOVIE-RECOMMENDATION-SYSTEM/assets/89287734/c2048a21-25da-451b-868c-9cb2fa975f3a)
+
 
 
 ## Features
