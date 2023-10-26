@@ -14,7 +14,7 @@ This project is a Movie Recommendation System that suggests movies to users base
 
 ## Installation
 
-1. Clone the repository from [GitHub](https://github.com/yourusername/your-repository).
+1. Clone the repository from [GitHub](https://github.com/Pritush09/MOVIE-RECOMMENDATION-SYSTEM).
    
    ```bash
    git clone https://github.com/yourusername/your-repository.git
