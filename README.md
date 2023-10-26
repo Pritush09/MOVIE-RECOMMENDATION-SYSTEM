@@ -34,3 +34,13 @@ This project is a Movie Recommendation System that suggests movies to users base
 1. Choose the movie which u like the most from the movies list dropbox
 2. After selecting click on the recommend button to get the similar movies recommended
 
+## Acknowledgements
+I would like to thank the following resources and libraries that have contributed to the development of this project:
+
+* Scikit-learn
+* Pandas
+* NumPy
+* Pickle
+* Streamlit
+* matplotlib
+* Seaborn
