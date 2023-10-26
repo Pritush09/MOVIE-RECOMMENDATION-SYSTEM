@@ -4,13 +4,15 @@
 
 This project is a Movie Recommendation System that suggests movies to users based on their preferences and viewing history. It employs collaborative filtering, content-based filtering, or a hybrid approach to provide personalized movie recommendations to users, enhancing their overall movie-watching experience.
 
+## Overview
+![Uploading Movie Recommendation.png…]()
+
+
 ## Features
 
-- Personalized movie recommendations based on user preferences.
+- Personalized movie recommendations based on the selected movie by user
 - Efficient and scalable recommendation algorithms.
-- Integration with user accounts for tracking viewing history.
 - User-friendly interface for easy navigation and movie selection.
-- Regular updates to the movie database for the latest recommendations.
 
 ## Installation
 
@@ -19,24 +21,15 @@ This project is a Movie Recommendation System that suggests movies to users base
    ```bash
    git clone https://github.com/yourusername/your-repository.git
    ```
-   
-2. Install the required dependencies.
-   
-   ```bash
-   pip install -r requirements.txt
-   ```
-   
+
 3. Run the application.
    
    ```bash
-   python main.py
+   streamlit run app.py
    ```
 
 ## Usage
 
-1. Log in to the application or create a new user account.
-2. Rate movies you have watched to generate personalized recommendations.
-3. Explore the recommended movies and their descriptions.
-4. Provide feedback on the recommendations to improve future suggestions.
-5. Enjoy a personalized movie-watching experience based on your preferences.
+1. Choose the movie which u like the most from the movies list dropbox
+2. After selecting click on the recommend button to get the similar movies recommended
 
